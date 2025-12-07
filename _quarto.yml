@@ -1,9 +1,10 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "女性性激素临床应用与病历解读"
-  author: "邓成艳"
+  author: "邓教授"
   date: "9/9/2021"
   chapters:
     - index.qmd
