@@ -1,0 +1,43 @@
+project:
+  type: book
+
+book:
+  title: "女性性激素临床应用与病历解读"
+  author: "邓成艳"
+  date: "9/9/2021"
+  chapters:
+    - index.qmd
+
+    - part: 基础知识篇
+      chapters:
+        - 1.qmd
+        - 2.qmd
+        - 3.qmd
+        - 4.qmd
+  
+    - part: 临床应用篇
+      chapters:
+        - 5.qmd
+        - 6.qmd
+        - 7.qmd
+        - 8.qmd
+        - 9.qmd
+        - 10.qmd
+        - 11.qmd
+        - 12.qmd
+
+    - part: 病历解读篇
+      chapters:
+        - 13.qmd
+
+    - part: 附录
+      chapters:
+        - 14.qmd
+        - 15.qmd
+  
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand

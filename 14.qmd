@@ -1,0 +1,64 @@
+# 缩略词表
+
+| 缩略词 | 英文全称 | 中文名称 |
+| :--- | :--- | :--- |
+| ACTH | adrenocorticotropic hormone | 促肾上腺皮质激素 |
+| AFC | antral follicle count | 窦卵泡数 |
+| AMH | anti-Müllerian hormone | 抗苗勒管激素 |
+| ASD | androstenedione | 雄烯二酮 |
+| AUB | abnormal uterine bleeding | 异常子宫出血 |
+| BBT | basal body temperature | 基础体温 |
+| BMI | body mass index | 体重指数 |
+| CAH | congenital adrenal hyperplasia | 先天性肾上腺皮质增生症 |
+| CAIS | complete androgen insensitivity syndrome | 完全性雄激素不敏感综合征 |
+| COS | controlled ovarian stimulation | 控制性卵巢刺激 |
+| CPP | central precocious puberty | 中枢性性早熟 |
+| CLIA | chemiluminescence immunoassay | 化学发光免疫分析 |
+| DA | dopamine | 多巴胺 |
+| DHD | 20α-dihydrogesterone | 20α-二氢孕酮（10,11-二羟基衍生物）|
+| DHEA | dehydroepiandrosterone | 脱氢表雄酮 |
+| DHEA-S | dehydroepiandrosterone sulphate | 硫酸脱氢表雄酮 |
+| $E_1$ | estrone | 雌酮 |
+| $E_2$ | estradiol | 雌二醇 |
+| ECLIA | electro-chemiluminescence immunoassay | 电化学发光免疫分析 |
+| ELISA | enzyme-linked immunosorbent assay | 酶联免疫吸附分析 |
+| FSH | follicle-stimulating hormone | 促卵泡生长素 |
+| Gn | gonadotropin | 促性腺激素 |
+| GnRH | gonadotropin releasing hormone | 促性腺激素释放激素 |
+| GnRH-a | GnRH agonist | GnRH 激动剂 |
+| GnRH-A | GnRH antagonist | GnRH 拮抗剂 |
+| HCG | human chorionic gonadotropin | 人绒毛膜促性腺激素 |
+| ICSI | intracytoplasmic sperm injection | 卵胞浆内单精子显微注射 |
+| IGF | insulin like growth factor | 胰岛素样生长因子 |
+| IUA | intrauterine adhesion | 宫腔粘连 |
+| IVF-ET | in vitro fertilization and embryo transfer | 体外受精-胚胎移植 |
+| IVM | in vitro maturation | 未成熟卵体外培养 |
+| LC-MS | liquid chromatography-tandem mass spectrometry | 液相色谱-质谱联用 |
+| LH | luteinizing hormone | 促黄体生成素 |
+| LMP | last menstrual period | 末次月经 |
+| LUFS | luteinized unruptured follicle syndrome | 卵泡未破裂综合征 |
+| MHT | menopausal hormone therapy | 绝经后激素治疗 |
+| NCAH | nonclassic adrenal hyperplasia | 非典型性肾上腺皮质增生症 |
+| OHSS | ovarian hyperstimulation syndrome | 卵巢过度刺激综合征 |
+| P | progesterone | 孕酮 |
+| PCOS | polycystic ovarian syndrome | 多囊卵巢综合征 |
+| PMP | previous menstrual period | 前次月经 |
+| PPMP | pre-previous menstrual period | 再前次月经 |
+| PPP | peripheral precocious puberty | 外周性性早熟 |
+| PIF | prolactin inhibitory factor | 催乳素抑制因子 |
+| POF | premature ovarian failure | 卵巢早衰 |
+| POI | premature ovarian insufficiency | 早发性卵巢功能不全 |
+| PRF | prolactin releasing factor | 催乳素释放因子 |
+| PRL | prolactin | 催乳素 |
+| RIA | radioimmunoassay | 放射免疫分析法 |
+| ROS | resistant ovarian syndrome | 卵巢抵抗综合征 |
+| SHBG | sex hormone-binding globulin | 性激素结合球蛋白 |
+| SRY | sex determining region of Y chromosome | Y 染色体性别决定区 |
+| T | testosterone | 睾酮 |
+| $T_3$ | triiodothyronine | 三碘甲状腺原氨酸 |
+| $T_4$ | tetraiodothyronine | 四碘甲状腺原氨酸 |
+| TRH | thyrotropin-releasing hormone | 促甲状腺激素释放激素 |
+| TSH | thyroid stimulating hormone | 促甲状腺激素 |
+| 11β-OHD | 11β-hydroxylase deficiency | 11β-羟化酶缺乏 |
+| 17α-OHD | 17α-hydroxylase deficiency | 17α-羟化酶缺乏 |
+| 21-OHD | 21-hydroxylase deficiency | 21-羟化酶缺乏 |
